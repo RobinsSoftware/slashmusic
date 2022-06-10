@@ -1,0 +1,10 @@
+name: slashmusic
+version: 0.1.0
+api-version: 1.18
+author: "Robins Software"
+main: ca.robinssoftware.slashmusic.MusicPlugin
+description: Spigot YouTube Music Player
+commands:
+   music:
+      description: Interact with the web player.
+      aliases: [mu]
